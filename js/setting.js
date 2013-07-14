@@ -19,8 +19,8 @@ OpenSpending.Styles.Cofog = {
 
   /* asahikawa cofog */
   // 1 議会費
-  '1': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#0AB971' },
-  '100': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#0AB971' },
+  '1': { icon: 'icons/asahikawa_logo.svg', color: '#C75746', bcolor: '#0AB971' },
+  '100': { icon: 'icons/asahikawa_logo.svg', color: '#C75746', bcolor: '#0AB971' },
   // 2 総務費
   '2': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#0AB971' },
   '101': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#0AB971' },
