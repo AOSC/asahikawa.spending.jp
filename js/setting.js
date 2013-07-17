@@ -53,9 +53,9 @@ OpenSpending.Styles.Cofog = {
   '7': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#938626' },
   '119': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#938626' },
   // 8 土木費
-  '8': { icon: 'icons/snow.svg', color: '#C75746', bcolor: '#C75746' },
+  '8': { icon: 'icons/snow-removal.svg', color: '#C75746', bcolor: '#C75746' },
   '120': { icon: 'icons/construction.svg', color: '#C75746', bcolor: '#C75746' },
-  '121': { icon: 'icons/snow.svg', color: '#C75746', bcolor: '#C75746' },
+  '121': { icon: 'icons/snow-removal.svg', color: '#C75746', bcolor: '#C75746' },
   '122': { icon: 'icons/fishing.svg', color: '#C75746', bcolor: '#C75746' },
   '123': { icon: 'icons/airplane.svg', color: '#C75746', bcolor: '#C75746' },
   '124': { icon: 'icons/planning.svg', color: '#C75746', bcolor: '#C75746' },
