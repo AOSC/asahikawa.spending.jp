@@ -77,12 +77,12 @@ OpenSpending.Styles.Cofog = {
   '11': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#790586' },
   '135': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#790586' },
   // 12 公債費
-  '12': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#790586' },
-  '136': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#790586' },
+  '12': { icon: 'icons/debt-asahikawa.svg', color: '#C75746', bcolor: '#790586' },
+  '136': { icon: 'icons/debt-asahikawa.svg', color: '#C75746', bcolor: '#790586' },
   // 13 職員費
   '13': { icon: 'icons/payroll.svg', color: '#C75746', bcolor: '#790586' },
   '137': { icon: 'icons/payroll.svg', color: '#C75746', bcolor: '#790586' },
   // 14 予備費
-  '14': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' },
-  '138': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' }
+  '14': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#790586' },
+  '138': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#790586' }
 };
