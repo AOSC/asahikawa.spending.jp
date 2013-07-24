@@ -74,8 +74,8 @@ OpenSpending.Styles.Cofog = {
   '133': { icon: 'icons/sports.svg', color: '#C75746', bcolor: '#D33673' },
   '134': { icon: 'icons/secondary-upper.svg', color: '#C75746', bcolor: '#D33673' },
   // 11 災害復旧費 
-  '11': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#790586' },
-  '135': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#790586' },
+  '11': { icon: 'icons/restoration.svg', color: '#C75746', bcolor: '#790586' },
+  '135': { icon: 'icons/restoration.svg', color: '#C75746', bcolor: '#790586' },
   // 12 公債費
   '12': { icon: 'icons/debt-asahikawa.svg', color: '#C75746', bcolor: '#790586' },
   '136': { icon: 'icons/debt-asahikawa.svg', color: '#C75746', bcolor: '#790586' },
