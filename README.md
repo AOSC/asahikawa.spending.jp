@@ -6,12 +6,12 @@ Where Does My Money Go? 横浜版からForkした旭川版です。
 http://www.city.asahikawa.hokkaido.jp/files/zaisei/index.htm
 
 旭川版 Team:
-Tomoya Shimaguchi
-Masaru Ishizawa
-Tatsuro Yasukawa
-Kosuke Asahi
-Yoshimitsu Kato
-Ryusuke Nakai
+- Tomoya Shimaguchi
+- Masaru Ishizawa
+- Tatsuro Yasukawa
+- Kosuke Asahi
+- Yoshimitsu Kato
+- Ryusuke Nakai
 
 
 このソースコードは、Open Definition(http://opendefinition.org/) の定義に沿っていれば、どなたでも利用、改変、及び再配布が可能です。
